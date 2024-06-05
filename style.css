@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background: rgb(20, 108, 152);
+    color: white;
+    text-align: center;
+    padding: 100px 0;
+}
+
+header img {
+    border: 7px solid hwb(0 93% 1%);
+}
+
+section {
+    padding: 60px 0;
+}
+
+section#skills ul {
+    list-style: none;
+    padding: 0;
+}
+
+section#skills ul li {
+    display: inline;
+    margin: 0 16px;
+    font-size: 20px;
+    color: #010f13;
+}
+
+footer {
+    background: #e5f1fe;
+    padding: 20px 0;
+    text-align: center;
+}
